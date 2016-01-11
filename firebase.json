@@ -1,0 +1,9 @@
+{
+  "firebase": "hello-uccd2-yadira",
+  "public": "firebase deploy",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
